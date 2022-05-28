@@ -1,0 +1,29 @@
+class Animal:
+ def parent():
+  print("I am the Parent");
+ endnf
+endclass;
+
+class Cat: Animal
+ def hello():
+  print("meow");
+ endnf
+endclass;
+
+class Dog: Animal
+ var barked = 0;
+ def back():
+  print("Woof");
+ endnf
+endclass;
+
+print("Start of my dog");
+class GoldenDog : Dog
+let d = GoldenDog {};
+d.back();
+d.parent();
+
+print("Closing with my cat");
+let a = Cat {};
+a.hello();
+a.parent();

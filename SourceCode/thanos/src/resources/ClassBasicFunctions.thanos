@@ -1,0 +1,23 @@
+
+//class definiton with key @class
+class Multipurpose:
+
+//new function definition  @def
+ def hello(x):
+  print(!x);
+ endnf;
+
+//new function definition @def
+ def test(x):
+   print(!x);
+ endnf;
+
+//end of class tag @endclass
+endclass;
+
+let testName = Multipurpose {};
+testName.test(10%5);
+testName.test("Test for test method");
+testName.hello(4);
+testName.hello(true);
+testName.hello("Test hello method");

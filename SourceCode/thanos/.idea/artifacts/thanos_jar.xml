@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="thanos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/thanos_jar</output-path>
+    <root id="archive" name="thanos.jar">
+      <element id="module-output" name="thanos" />
+    </root>
+  </artifact>
+</component>

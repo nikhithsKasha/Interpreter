@@ -1,0 +1,49 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]" date="1638622923272" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 04/12/2021, 16:00 [Default]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Tokenizer.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Tokenizer.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Tokenizer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Core.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Core.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Core.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Block.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Block.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Block.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Main.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Main.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Main.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Function.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Function.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Function.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Errors.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Errors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Errors.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Values.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Values.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Values.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/FunctionProperties.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/FunctionProperties.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/FunctionProperties.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Parser.class" />
+    <option name="AFTER_PATH" value="out/production/ProgrammingLanguage/com/rafayel/okanga/Parser.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_12_2021,_16_00_[Default]/Parser.class" />
+  </binary>
+</changelist>

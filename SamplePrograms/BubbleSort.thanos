@@ -1,0 +1,23 @@
+class ArraySolution:
+ def bubbleSort(arr):
+ n = length (arr);
+ for(int i=0; i < n; i++)
+   for(int j=1; j < (n-i); j++
+       when(arr[j-1] > arr[j])
+           //swap elements
+            temp = arr[j-1];
+          arr[j-1] = arr[j];
+         arr[j] = temp;
+   endfor;
+ endfor
+   print(!arr);
+ endnf;
+
+endclass;
+
+var @array = [45,20,30,12,42,1,19];
+let array = ArraySolution {};
+array.bubbleSort(@array);
+
+
+
